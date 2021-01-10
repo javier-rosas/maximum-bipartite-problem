@@ -2,4 +2,4 @@
 
 Goals: 
 
-  - To solve maximum bipartite problem "Tiling Dino" 
+  - To solve maximum bipartite matching problem "Tiling Dino" 
